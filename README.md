@@ -15,11 +15,11 @@
 
  * Clone the repository
 ```
-git clone https://github.com/rkumarchou/istapi-task-one.git
+git clone https://github.com/shubham43MP/nodejs-handling-movie-apis.git
 ```
  * Go to project directory terminal 
 ```
-cd istapi-task-one
+cd nodejs-handling-movie-apis
 ```
  * Install the dependencies:
 ```
